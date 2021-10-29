@@ -1,0 +1,6 @@
+/home/alex/Downloads/clion-2021.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/alex/CLionProjects/Improved-Shell-Builtins
+-- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found suitable version "1.74.0", minimum required is "1.74") found components: filesystem system program_options log log_setup 
+boost found
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/alex/CLionProjects/Improved-Shell-Builtins/cmake-build-debug
