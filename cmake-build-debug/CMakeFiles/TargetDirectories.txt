@@ -1,0 +1,5 @@
+/home/alex/CLionProjects/Improved-Shell-Builtins/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alex/CLionProjects/Improved-Shell-Builtins/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alex/CLionProjects/Improved-Shell-Builtins/cmake-build-debug/mkdir/CMakeFiles/rebuild_cache.dir
+/home/alex/CLionProjects/Improved-Shell-Builtins/cmake-build-debug/mkdir/CMakeFiles/edit_cache.dir
+/home/alex/CLionProjects/Improved-Shell-Builtins/cmake-build-debug/mkdir/CMakeFiles/mkdir_im.dir

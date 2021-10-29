@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alex/CLionProjects/Improved-Shell-Builtins/mkdir/main.cpp
+boost/program_options.hpp
+-
+boost/log/core.hpp
+-
+boost/log/trivial.hpp
+-
+boost/log/expressions.hpp
+-
+boost/log/utility/setup/console.hpp
+-
+boost/log/utility/setup/common_attributes.hpp
+-
+iostream
+-
+string
+-
+vector
+-
+filesystem
+-
+string.h
+-
+
